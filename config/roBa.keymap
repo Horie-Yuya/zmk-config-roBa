@@ -53,6 +53,11 @@
             bindings = <&to 6>;
             key-positions = <39 38 37>;
         };
+
+        missioncontrol {
+            bindings = <&kp LC(UP_ARROW)>;
+            key-positions = <11 10>;
+        };
     };
 
     macros {
