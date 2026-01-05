@@ -51,7 +51,7 @@
 
         toBT {
             bindings = <&to 6>;
-            key-positions = <39 40>;
+            key-positions = <39 34>;
         };
 
         missioncontrol {
