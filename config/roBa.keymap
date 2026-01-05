@@ -51,12 +51,19 @@
 
         toBT {
             bindings = <&to 6>;
-            key-positions = <39 34>;
+            key-positions = <39 40>;
+            layers = <0>;
         };
 
         missioncontrol {
             bindings = <&kp LC(UP_ARROW)>;
             key-positions = <11 10>;
+        };
+
+        toDF {
+            bindings = <&to 0>;
+            key-positions = <39 40>;
+            layers = <6>;
         };
     };
 
